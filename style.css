@@ -1,0 +1,95 @@
+.selected {
+  font-style: italic;
+}
+.para {
+  float: left;
+  width: 50%;
+}
+.bean {
+  text-align: right;
+  border: 2px solid;
+  margin: 10px 0px 10px 20px;
+  padding: 5px;
+}
+.portfolio2 {
+  display: block;
+  margin-left: 50px;
+}
+
+.portfolioImage {
+  margin-left: 20px;
+  margin-top: 10px;
+  border: 2px solid;
+  padding: 5px;
+}
+.divider {
+  display: block;
+  margin-top:10px;
+  line-height: 20px;
+}
+
+h1{
+  font-family: arial;
+}
+h2 {
+  margin: 30px 0px;
+  font-family: arial;
+}
+h3 {
+  margin: 40px 0px 20px 0px;
+  font-size: 16px;
+  font-family: arial;
+}
+h4 {
+  font-weight: bold;
+  font-style: italic;
+  display:inline;
+  font-family: arial;
+}
+h5 {
+  display:inline;
+  font-weight: normal;
+  font-size: 15px;
+  font-family: arial;
+}
+h6 {
+  font-weight: normal;
+  display:inline;
+  font-family: arial;
+}
+body {
+  font-family: times;
+  font-size: 17px;
+  text-align: center;
+  margin: 40px 25px 40px 25px;
+  border-top: solid 5px;
+  border-bottom: solid 5px;
+  padding: 30px;
+}
+p {
+  font-family: times;
+  line-height: 22px;
+}
+article {
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  text-align: left;
+}
+header{
+  display: inline;
+  font-family: arial;
+}
+footer {
+  font-style: bold;
+  display: inline;
+  font-family: arial;
+}
+ul {
+  -webkit-padding-start: 0px;
+}
+li {
+  display: inline;
+}
+a {
+  color: black;
+}
